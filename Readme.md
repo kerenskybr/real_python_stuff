@@ -1,0 +1,1 @@
+## :snake: Real Python code from trainings
